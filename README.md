@@ -2,6 +2,7 @@
 
 
 ![Amoroso GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Amoroso&show_icons=true&theme=dark)
+<img height = "180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Amoroso&layout=compact&langs_count=7&theme=dark"/>
 <hr>
 
 
