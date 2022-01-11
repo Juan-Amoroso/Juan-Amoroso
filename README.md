@@ -2,7 +2,7 @@
 
 
 ![Amoroso GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Amoroso&show_icons=true&theme=dark)<br/><br/><br/>
-<img height = "128em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Amoroso&layout=compact&langs_count=7&theme=dark"/><br/><br/>
+<img height = "195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Amoroso&layout=compact&langs_count=7&theme=dark"/><br/><br/>
 <hr>
 
 
