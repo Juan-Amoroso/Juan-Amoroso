@@ -1,8 +1,8 @@
-### Olá! Eu sou o Juan Amoroso 👋
+### Olá! Eu sou o Juan Amoroso 👋 <br/><br/>
 
 
-![Amoroso GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Amoroso&show_icons=true&theme=dark)
-<img height = "180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Amoroso&layout=compact&langs_count=7&theme=dark"/>
+![Amoroso GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Amoroso&show_icons=true&theme=dark)<br/><br/><br/>
+<img height = "128em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Amoroso&layout=compact&langs_count=7&theme=dark"/><br/><br/>
 <hr>
 
 
@@ -18,4 +18,4 @@
 </div><br/>
 
 <p>Fascinado pelo que a tecnologia pode fazer.<br/>
-Tentando um ingresso para esta área. 💻 </p>
+Tentando um ingresso para área. 💻 </p>
